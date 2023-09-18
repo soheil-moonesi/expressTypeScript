@@ -1,0 +1,6 @@
+function initServer(){
+
+}
+function connectDb(){
+    
+}
